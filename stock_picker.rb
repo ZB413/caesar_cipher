@@ -17,4 +17,4 @@ def stock_picker(stock_prices)
   puts "You will make $#{profit} in profit."
 end
 
-stock_picker([5,14,18,3,1,15,9,20])
+stock_picker([22,14,18,3,1,15,11,1])
